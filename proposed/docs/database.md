@@ -5,15 +5,15 @@ The current running database is a MySQL server storing around 400,000 data point
 below, this dataset will be converted to a PostgreSQL server storing just over half of these points in a more efficient
 and more secure manner.
 
-[Storage Formats](#Storage Formats)
+[Storage Formats](#Storage-Formats)
 
-[Organization and Validation](#Organization and Validation)
+[Organization and Validation](#Organization-and-Validation)
 
-> [Flight Stitching](#Flight Stitching)
+> [Flight Stitching](#Flight-Stitching)
 
-> [Validation at Conversion](#Validation at Conversion)
+> [Validation at Conversion](#Validation-at-Conversion)
 
-> [Validation after Conversion](#Validation after Conversion)
+> [Validation after Conversion](#Validation-after-Conversion)
 
 [Security](#Security)
 
